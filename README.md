@@ -8,11 +8,14 @@
       <summary>
          <kbd><h3>Skills</h3><kbd>
       </summary>
-           <h3>Python
-             <br>
-             Java
-             <br>
-             HTML CSS JS
+           Python 70-80%
+           <br>
+           Java 0.01%
+           <br>
+           HTML 40-47%
+           <br>
+           CSS 40-47%
+           <br>
+           JS 7%
       </details>
-</h3>
 </p>
