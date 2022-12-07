@@ -18,6 +18,7 @@ Libraries & Frameworks:
 <div>
   <img src="https://avatars.githubusercontent.com/u/46163555" title="PySimpleGUI" **alt="PySimpleGUI" width="60" height="60"/>
   <img src="https://user-images.githubusercontent.com/80628386/206169047-d0f4e3a2-fc70-4a08-a45b-f3e5a464353f.png" title="Django" **alt="Django" width="60" height="60"/>
+  <img src="https://www.pygame.org/ftp/pygame-head-party.png" title="Pygame" **alt="Pygame" width="60" height="60"/>
 
 
 </div>
