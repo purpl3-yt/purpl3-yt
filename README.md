@@ -20,6 +20,5 @@ Libraries & Frameworks:
   <img src="https://user-images.githubusercontent.com/80628386/206169047-d0f4e3a2-fc70-4a08-a45b-f3e5a464353f.png" title="Django" **alt="Django" width="60" height="60"/>
   <img src="https://www.pygame.org/ftp/pygame-head-party.png" title="Pygame" **alt="Pygame" width="60" height="60"/>
   <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" title="OpenCV" **alt="OpenCV" width="50" height="50"/>
-
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" title="Sqlite3" **alt="Sqlite3" width="50" height="50"/>
 </div>
