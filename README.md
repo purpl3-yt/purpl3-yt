@@ -1,6 +1,7 @@
 # Hello everyone 👋, 
 # I'm Purpl3 ♓️ (my favorite color)
 ## I'm the creator 💻 of programs 🧩, servers 🖥, sites 📡 and bots 🤖
+## Live in Ukraine 🇺🇦
 #### My discord: PLNT#6825
 ![Purpl3's GitHub stats](https://github-readme-stats.vercel.app/api?username=purpl3-yt&show_icons=true&theme=aura&hide_title=true)
 # Tech stack: 
